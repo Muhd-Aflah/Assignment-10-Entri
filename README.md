@@ -1,4 +1,4 @@
-##Sign-Up Form Validation
+##**Sign-Up Form Validation**
 
 A simple sign-up form built with HTML, CSS, and JavaScript that validates user input before submission.
 This project demonstrates basic client-side form validation techniques such as checking for empty fields, email format, password length, and password confirmation.
